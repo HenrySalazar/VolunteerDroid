@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="drawer_strings">
+        <item>Events</item>
+        <item>Find</item>
+    </string-array>            
     <string name="hello">Hello World, LoginSystem!</string>
     <string name="app_name">Login System</string>
     <string name="username">user</string>
