@@ -14,4 +14,13 @@ public class EventData {
 
     public EventData() {
     }
+
+    public EventData(String EventName, String Description, String Location, Date BeginTime, Date EndTime) {
+    	
+    	eventName = EventName;
+    	description = Description;
+    	location = Location;
+    	beginTime = BeginTime;
+    	endTime = EndTime;
+    }
 }
